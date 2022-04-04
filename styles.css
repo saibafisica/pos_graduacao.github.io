@@ -10,6 +10,7 @@
 }
 
 #img-cabecalho {
+    position: absolute;
     width: 486.28px;
     height: 328.67px;
     left: 147px;
@@ -18,6 +19,7 @@
 }
 
 #tit-LP-home{
+    position: absolute;
     width: 364.67px;
     height: 39.93px;
     left: 761.93px;
@@ -35,7 +37,8 @@
     text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.5);
 }
 
-    #text-LP-home{
+#text-LP-home{
+    position: absolute;
     width: 651.19px;
     height: 53.24px;
     left: 631.46px;
