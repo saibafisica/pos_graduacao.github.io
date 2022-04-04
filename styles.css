@@ -1,0 +1,10 @@
+#cabecalho-home {
+    position: absolute;
+    width: 1157px;
+    height: 341.98px;
+    left: 147px;
+    top: 0px;
+    background: #820505;
+    box-shadow: inset 0px 8px 16px -11px rgba(0, 0, 0, 0.1);
+    border-radius: 0px 0px 320px 8px;
+}
