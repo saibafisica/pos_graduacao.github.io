@@ -8,3 +8,38 @@
     box-shadow: inset 0px 8px 16px -11px rgba(0, 0, 0, 0.1);
     border-radius: 0px 0px 320px 8px;
 }
+#img-cabecalho {
+    position: absolute;
+    width: 486.28px;
+    height: 328.67px;
+    left: 147px;
+    top: 14.33px;
+    border-radius: 36px 36px 36px 8px;
+}
+#tit-LP-home{
+height: 39.93134307861328px;
+width: 364.6680603027344px;
+left: 761.93408203125px;
+top: 53.24169921875px;
+border-radius: nullpx;
+font-family: Montserrat;
+font-size: 32px;
+font-style: italic;
+font-weight: 500;
+line-height: 39px;
+letter-spacing: 0.015em;
+text-align: center;
+}
+#text-LP-home{
+height: 53.241790771484375px;
+width: 651.1932373046875px;
+left: 631.462890625px;
+top: 141.29541015625px;
+border-radius: nullpx;
+font-family: Montserrat;
+font-size: 28px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+}
