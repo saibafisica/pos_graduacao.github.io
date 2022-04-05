@@ -62,13 +62,6 @@
     border-radius: [object Object]px;
 
 }
-.card{
-    position: relative;
-    width: 520px;
-    height: 411.1px;
-    filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.01));
-    border-radius: 4px;
-}
 .cardbar{
     position: absolute;
     left: 0%;
